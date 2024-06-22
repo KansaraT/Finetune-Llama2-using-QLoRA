@@ -8,4 +8,4 @@
 
 2. Fine-tune Llama2 using QLoRA.
    
-Video Explaination link: [https://jmp.sh/lCzS0FL1](https://jmp.sh/lCzS0FL1)
+Video Explaination: [link](https://jumpshare.com/v/dSQtR8LXC7D6k6tJqgSN?b=YA7Xmqp44hDp36cW804D)
